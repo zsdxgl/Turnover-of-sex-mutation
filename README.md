@@ -8,14 +8,14 @@ The simulation was performed in Perl scripts.
         simulateZ.pl: 4N Z haploytpes
 
 
-COMMAND
-
+Command
+        simulate.pl ${i} ${j} ${x} ${y} 
         i: size of N
         j: lable of repeat
         x: mutation rate
         y: recombination rate
 
-
+Simulation
 
         for i in {50,100,200,500,1000}
         do
