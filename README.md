@@ -9,6 +9,7 @@ The simulation was performed in Perl scripts.
 
 
 Command
+
         simulate.pl ${i} ${j} ${x} ${y} 
         i: size of N
         j: lable of repeat
